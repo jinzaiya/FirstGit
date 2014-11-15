@@ -1,5 +1,5 @@
 firstGit
 why not
-shit
+fail
 nomoney
-fuck
+failure
